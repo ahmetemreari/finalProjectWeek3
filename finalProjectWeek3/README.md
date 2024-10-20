@@ -21,7 +21,7 @@ Bu proje, kullanıcıya çeşitli programlar sunan bir konsol uygulamasıdır. K
 Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 1. **Depoyu Klonlayın**:
-git clone https://github.com/kullaniciadi/finalProjectWeek3.git
+git clone https://github.com/ahmetemreari/finalProjectWeek3.git
 cd finalProjectWeek3
 
 2. **Gerekli Bağımlılıkları Yükleyin**:
